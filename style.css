@@ -1,5 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Sen&display=swap");
 
+/* Global Styles */
 html {
   box-sizing: border-box;
 }
@@ -15,6 +16,7 @@ body {
   background: #c9ced3;
 }
 
+/* Container Styles */
 .container {
   width: 480px;
   height: 630px;
@@ -26,7 +28,7 @@ body {
   box-shadow: 0 5px 30px 10px rgba(0, 0, 0, 0.4);
 }
 
-/* Form */
+/* Form Styles */
 form {
   width: 90%;
 }
